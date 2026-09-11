@@ -21,7 +21,13 @@
 </p>
 
 ---
-
+<p align="center">
+  <img 
+    src="./meshapi.png" 
+    alt="MeshAPI RAG Chatbot Architecture"
+    width="900"
+  />
+</p>
 <p align="center">
   <img 
     src="./implementation.png" 
@@ -126,6 +132,27 @@ API credentials and model configuration are loaded through environment variables
 
 </td>
 </tr>
+</table>
+---
+<h2 align="center">📸 Project Screenshots</h2>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="./Screenshot 2026-09-11 204149.png" width="400"/>
+    </td>
+    <td align="center">
+      <img src="./logs.png" width="400"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./memory_gaurdrills.png" width="400"/>
+    </td>
+    <td align="center">
+      <img src="./Screenshot 2026-09-11 204225.png" width="400"/>
+    </td>
+  </tr>
 </table>
 
 ---
