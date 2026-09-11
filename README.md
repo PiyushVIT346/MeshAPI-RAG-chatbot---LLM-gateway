@@ -22,6 +22,15 @@
 
 ---
 
+<p align="center">
+  <img 
+    src="./implementation.png" 
+    alt="MeshAPI RAG Chatbot Architecture"
+    width="900"
+  />
+</p>
+
+---
 ## 🚀 Overview
 
 **MeshAPI RAG Chatbot** is an AI-powered conversational application that combines **Retrieval-Augmented Generation (RAG)** with the **MeshAPI LLM gateway** to produce grounded, context-aware responses.
